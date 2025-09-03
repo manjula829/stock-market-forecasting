@@ -54,7 +54,8 @@ Financial markets are dynamic and often volatile. While traditional models might
 
 ## Example Dashboard
 
-*Insert screenshots of your Streamlit dashboard illustrating historical trends, forecasts, and model comparisons here.*
+
+
 
 ---
 
