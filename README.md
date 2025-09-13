@@ -54,7 +54,7 @@ Financial markets are dynamic and often volatile. While traditional models might
 
 ## Example Dashboard
 
-
+![StockTrack Analytics Dashboard Preview](Scr.png)
 
 
 ---
